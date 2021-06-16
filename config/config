@@ -1,0 +1,5 @@
+module.exports = {
+    rsk: {
+        hostUrl: 'http://localhost:4444'
+    }
+}
